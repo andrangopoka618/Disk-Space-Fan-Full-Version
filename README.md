@@ -236,4 +236,4 @@ This repository serves as the official landing page for Disk Space Fan. The soft
 **Get the most recent version of Disk Space Fan today!**
 
 ---
-**Last updated:** 2026-10-09 00:48:00 UTC
+**Last updated:** 2026-10-09 06:56:09 UTC
